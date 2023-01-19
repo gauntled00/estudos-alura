@@ -126,7 +126,6 @@ function movimentaRaqueteOponente(){
 }
 
 
-
 function incluiPlacar(){
   stroke(255)
     textAlign(CENTER)
